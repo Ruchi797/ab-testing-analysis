@@ -71,7 +71,7 @@ ab_testing_project/
 |   └── AB_queries.sql             ← All EDA + window functions
 │
 ├── notebooks/
-│   └── ab_testing_analysis.py         ← Full Python analysis
+│   └── a-b-testing-analysis.py         ← Full Python analysis
 │
 ├── assets/
 │   ├── chart1_cvr_comparison.png
@@ -80,8 +80,7 @@ ab_testing_project/
 │   ├── chart4_ad_exposure.png
 │   └── chart5_heatmap.png
 │
-├── powerbi_guide/
-│   └── POWERBI_GUIDE.md               ← Step-by-step Power BI build
+├── powerbi_dashboard
 │
 └── README.md
 ```
