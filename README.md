@@ -68,8 +68,7 @@ ab_testing_project/
 │   └── AB_Testing_dataset.csv         ← Raw dataset
 │
 ├── sql_queries/
-│   ├── 01_create_and_load.sql         ← Schema + LOAD DATA
-│   └── 02_eda_queries.sql             ← All EDA + window functions
+|   └── AB_queries.sql             ← All EDA + window functions
 │
 ├── notebooks/
 │   └── ab_testing_analysis.py         ← Full Python analysis
