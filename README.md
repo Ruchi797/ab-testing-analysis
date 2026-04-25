@@ -90,19 +90,19 @@ ab_testing_project/
 ## Charts
 
 ### Conversion Rate — Ad vs PSA Group
-![Chart 1](assets/chart1_cvr_comparison.png)
+![Chart 1](assets/chart1_cvr_comparison.PNG)
 
 ### Conversion Rate by Day of Week
-![Chart 2](assets/chart2_day_cvr.png)
+![Chart 2](assets/chart2_day_cvr.PNG)
 
 ### Conversion Rate by Hour of Day
-![Chart 3](assets/chart3_hour_cvr.png)
+![Chart 3](assets/chart3_hour_cvr.PNG)
 
 ### Ad Exposure vs Conversion Rate
-![Chart 4](assets/chart4_ad_exposure.png)
+![Chart 4](assets/chart4_ad_exposure.PNG)
 
 ### Day × Hour Heatmap
-![Chart 5](assets/chart5_heatmap.png)
+![Chart 5](assets/chart5_heatmap.PNG)
 
 ---
 
