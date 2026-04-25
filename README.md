@@ -158,25 +158,6 @@ The ad campaign produced a **+43.1% relative increase** in conversion rate versu
 
 ---
 
-## How to Reproduce
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/Ruchi797/ab-testing-analysis.git
-cd ab-testing-analysis
-
-# 2. Install Python dependencies
-pip install pandas numpy scipy matplotlib seaborn
-
-# 3. Run analysis
-cd notebooks
-python ab_testing_analysis.py
-
-# 4. SQL: Open sql_queries/ files in MySQL Workbench
-#    Update the file path in 01_create_and_load.sql and run
-```
-
----
 
 ## Connect
 
